@@ -1,0 +1,8 @@
+
+.qoute button{
+    background-color: greenyellow;
+}
+
+button :hover{
+    background-color: blue;
+}
